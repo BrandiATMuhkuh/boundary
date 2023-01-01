@@ -8,9 +8,11 @@ This project helps you define and enforce your boundaries. Healthy boundaries ar
 ## To Do
 - [ ] Create supabase project
 - [ ] Create next.js project
-- [ ] Table with bounday, crosser, enforce
+- [ ] Table with boundary, crosser, enforce
 - [ ] Use RLS to allow only own user to see own boundaries
 - [ ] Allow to share boundaries to others. USE RLS for read only support
 - [ ] See if login with username + password only is possible. 
-- [ ] Show it to the HN communicte: `Show HN: `
+- [ ] Show it to the HN community: `Show HN: `
 - [ ] get a domain and try it with supabase pay as you go
+- [ ] Decide on a license (boundary) for this project. It should be OSS but not necessarily allow commercial use
+- [ ] Ask on landing page (or somewhere else) for donation
