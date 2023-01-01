@@ -16,3 +16,4 @@ This project helps you define and enforce your boundaries. Healthy boundaries ar
 - [x] get a domain and try it with supabase pay as you go: https://boundary.quest
 - [ ] Decide on a license (boundary) for this project. It should be OSS but not necessarily allow commercial use
 - [ ] Ask on landing page (or somewhere else) for donation
+- [ ] Setup docker on windows for local development. Don't forget to write down steps
